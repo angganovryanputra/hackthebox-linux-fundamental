@@ -1,3 +1,4 @@
+![Screenshot 2022-01-08 at 21-58-59 Hack The Box - Academy](https://user-images.githubusercontent.com/21301377/148647137-a7000e8d-6dd9-4422-bbe1-3a8e219862cb.png)
 # hackthebox-windows-fundamental
 Introduction to Windows
 
